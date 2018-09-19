@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "cmdParameter": {
+      "commandName": "Project",
+      "commandLineArgs": "--a 参数a的值  --b 参数b的值 程序默认值 --c"
+    }
+  }
+}
